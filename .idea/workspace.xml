@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c035aac-03fe-4bd3-8110-5a78d72ff7db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c035aac-03fe-4bd3-8110-5a78d72ff7db" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="575" />
-    <option name="y" value="52" />
-    <option name="width" value="1449" />
-    <option name="height" value="943" />
+    <option name="x" value="802" />
+    <option name="y" value="37" />
+    <option name="width" value="1450" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,15 +118,15 @@
       <option name="presentableId" value="Default" />
       <updated>1603174240919</updated>
       <workItem from="1603174243235" duration="458000" />
-      <workItem from="1603184672423" duration="2387000" />
+      <workItem from="1603184672423" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2845000" />
+    <option name="totallyTimeSpent" value="3335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="42" width="1159" height="754" extended-state="0" />
+    <frame x="341" y="54" width="1159" height="754" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3121019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
